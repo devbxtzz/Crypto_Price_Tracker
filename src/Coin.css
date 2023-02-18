@@ -52,7 +52,7 @@
 }
 
 .coin-marketcap {
-  width: 250px;
+  width: 230px;
 }
 
 .coin-percent {
@@ -60,9 +60,9 @@
 }
 
 .red {
-  color: red;
+  color: #910808;
 }
 
 .green {
-  color: green;
+  color: #0e8f0e;
 }
